@@ -46,7 +46,7 @@
 
   <ItemGroup>
     <PackageReference Include="GrpcDotNetNamedPipes" Version="3.0.0" />
-    <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="14.4.0" />
+    <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="14.10.1" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.0" />
     <PackageReference Include="NLog" Version="5.3.4" />
     <PackageReference Include="RawInput.Sharp" Version="0.1.3" />
